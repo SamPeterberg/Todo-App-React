@@ -34,13 +34,3 @@ To get a local copy of the project up and running, follow these steps:
 
   ```bash
   npm install
-
-##Usage
-
-Adding a Task: Type your task into the input field and press Enter or click the Add button.
-Deleting a Task: Click the delete icon next to the task you want to remove.
-
-##Contributing
-Feel free to open an issue or submit a pull request if you have any improvements or bug fixes.
-
-   
